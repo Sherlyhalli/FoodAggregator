@@ -1,2 +1,2 @@
 # FoodAggregator
-Harman Food Aggregator project
+Food Aggregator project
